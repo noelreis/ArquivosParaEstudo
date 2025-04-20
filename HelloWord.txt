@@ -1,0 +1,11 @@
+Olá Mundo do Git.
+
+É importante criar repositórios diferentes para projetos diferentes.
+
+Commit - é o registro de uma versão do código
+
+PUSH - Enviar os commits para github
+
+PULL - Obter os commits do git hub
+
+Fetch - atualizar a base local com alteraçoes do servidor
