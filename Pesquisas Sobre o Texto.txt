@@ -3,6 +3,8 @@ Crie cards a partir texto abaixo e entre aspas para eu importar para o ANKI, meu
 EX: The first story is about; A primeira história é sobre; **story** – **história** no sentido de “relato”, “episódio da vida”; story = história, about = sobre
 
 Siga a ordem do exemplo acima e separe as informações com ponto e vírgula, sem enumerar as frases. 
+
+===================
 ---
 
 ### 📜 Trecho do Discurso
@@ -13,7 +15,8 @@ Siga a ordem do exemplo acima e separe as informações com ponto e vírgula, se
 
 ### 🧠 Tradução com Vocabulário Explicado
 
-> “É uma honra estar com vocês hoje na sua formatura de uma das melhores universidades do mundo. Eu nunca me formei na faculdade. Para ser sincero, esta é a vez que mais cheguei perto de uma formatura universitária. Hoje, quero contar a vocês três histórias da minha vida. Só isso. Nada demais. Apenas três histórias.” (['You've got to find what you love,' Jobs says - Stanford Report](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says?utm_source=chatgpt.com))
+> “É uma honra estar com vocês hoje na sua formatura de uma das melhores universidades do mundo. Eu nunca me formei na faculdade. Para ser sincero, esta é a vez que mais cheguei perto de uma formatura universitária. Hoje, quero contar a vocês três histórias da minha vida. Só isso. Nada demais. Apenas três histórias.” 
+(['You've got to find what you love,' Jobs says - Stanford Report](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says?utm_source=chatgpt.com))
 
 **Vocabulário para iniciantes:**
 
@@ -22,14 +25,16 @@ Siga a ordem do exemplo acima e separe as informações com ponto e vírgula, se
 - **finest** – melhores
 - **truth be told** – para ser sincero
 - **gotten** – forma do verbo "get" (obter, chegar)
-- **no big deal** – nada demais ([The Best College Commencement Speeches of All Time](https://www.teenvogue.com/story/best-college-commencement-speeches?utm_source=chatgpt.com), [[PDF] Steve Jobs Commencement Address at Stanford 2005 (Excerpt)](https://academyatthelakes.org/wp-content/uploads/2016/02/SteveJobsatStanfordUniversityExcerpts.pdf?utm_source=chatgpt.com), [Steve Jobs' 2005 Stanford Commencement Address - YouTube](https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=UF8uR6Z6KLc&utm_source=chatgpt.com))
+- **no big deal** – nada demais 
+([The Best College Commencement Speeches of All Time](https://www.teenvogue.com/story/best-college-commencement-speeches?utm_source=chatgpt.com), [[PDF] Steve Jobs Commencement Address at Stanford 2005 (Excerpt)](https://academyatthelakes.org/wp-content/uploads/2016/02/SteveJobsatStanfordUniversityExcerpts.pdf?utm_source=chatgpt.com), [Steve Jobs' 2005 Stanford Commencement Address - YouTube](https://www.youtube.com/watch?pp=0gcJCdgAo7VqN5tD&v=UF8uR6Z6KLc&utm_source=chatgpt.com))
 
 ---
 
 ### 🧩 Expressões e Estruturas Gramaticais
 
 - **“I am honored to be with you today”**  
-  → Presente simples com voz passiva: “I am honored” (eu estou honrado). ([[PDF] Steve Jobs Commencement Address at Stanford 2005 (Excerpt)](https://academyatthelakes.org/wp-content/uploads/2016/02/SteveJobsatStanfordUniversityExcerpts.pdf?utm_source=chatgpt.com))
+  → Presente simples com voz passiva: “I am honored” (eu estou honrado). 
+  ([[PDF] Steve Jobs Commencement Address at Stanford 2005 (Excerpt)](https://academyatthelakes.org/wp-content/uploads/2016/02/SteveJobsatStanfordUniversityExcerpts.pdf?utm_source=chatgpt.com))
 
 - **“Truth be told”**  
   → Expressão idiomática equivalente a “para ser sincero”.
@@ -3084,4 +3089,5 @@ Jobs quase cruzou a linha. Mas voltou. E com esse trecho, ele mostra não só gr
 É um lembrete poderoso: **a morte dá sentido à vida**... mas ela ainda não venceu.
 
 ---
+Não esquecer de perguntar.
 
